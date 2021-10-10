@@ -1,0 +1,3 @@
+C:/Users/abdoe/CLionProjects/Skip list/cmake-build-debug/CMakeFiles/Skip_list.dir
+C:/Users/abdoe/CLionProjects/Skip list/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/abdoe/CLionProjects/Skip list/cmake-build-debug/CMakeFiles/rebuild_cache.dir
